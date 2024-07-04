@@ -1,0 +1,15 @@
+43add5c85b95c0496e962fb6a628cf65 *DESCRIPTION
+2eaba678178d54db86e62d0fcebc1b54 *NAMESPACE
+759e7e27a4234747bebd9391ff54c80b *R/E1.R
+c73b7fe13aa2b3b905431fdea8dad566 *R/RcppExports.R
+d6d3b3e50c4d9b406d736deb09798229 *R/data.R
+b04aba0d9e5ef79ec4c7018d2b100d41 *R/main_fun.R
+67101b93676b962ac1de0f476b12288e *data/Econ_data.rda
+564ec94e654a78a3fcc99b293700ff27 *man/ACSS_gs.Rd
+711247b518f322def65e4d0ba68e9e82 *man/Econ_data.Rd
+1628b7f8bbb1c94a8356fdbafea8c9c7 *man/GLP_gs.Rd
+4bee4d0f6adb61d8fd8f9846ecb46bec *man/INSS_gs.Rd
+e62585629948e7dd143efbad43c2a6eb *src/Makevars
+e62585629948e7dd143efbad43c2a6eb *src/Makevars.win
+160cf8af24040dee7d40e49d8d3cda3d *src/Normal_cpp.cpp
+23bb491827380d46484a43c8af4dc39c *src/RcppExports.cpp
